@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.foodContainer img{
+    width: 100%;
+    height: 180px;
+}
+.foodContainer{
+   margin-bottom: 25px;
+}
+#foodsIngredients img{
+    width: 100%;
+    height: 280px;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(222, 235, 235);
+}
+
+.f-name{
+    background-color: white;
+}
+.ul li{
+    padding: 5px 0;
+}
+
+.icon-check {
+    color: #e74c3c;
+    margin-right: 5px;
+}
+
+#warning {
+    display: none;
+}
